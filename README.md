@@ -1,4 +1,4 @@
-# ionic-component-lazy-loading-example
+# ionic-component-optional-lazy-loading-example
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
@@ -61,7 +61,4 @@ Misc:
 
 ## Reference
 
-" [Ionic3] Error Messages with @IonicPage " (needs to use Korean translation, 글 내용이 한국어 입니다)
-
-http://heeam.org/archives/1041
 
